@@ -1,0 +1,23 @@
+header{
+    background-color: rgb(255, 220, 226);
+}
+
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 950px;
+    margin: 0 auto;
+}
+.logo{
+    text-align: center;
+    padding: 1em;
+}
+ul.menu li{
+    list-style: none;
+    margin: 1em;
+}
+.menu{
+    display: flex;
+
+}
